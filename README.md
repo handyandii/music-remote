@@ -27,7 +27,7 @@ with transport controls, track info, an animated visualizer and a lot of customi
   triggers that only report as analog axes.
 - Multiple named binding profiles, for example one per controller.
 - A controller test screen that shows exactly what the device detects when you press something.
-- Default profile: **L1** and **A** play/pause, **R1** skips, **R2** goes to the previous track.
+- Default profile: **A** play/pause, **R1** next track, **L1** previous track.
 
 **Make it yours**
 
