@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+
+# APKs are attached to GitHub Releases, not committed to the repo.
+*.apk
+*.aab
+*.sha256
