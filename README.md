@@ -13,6 +13,14 @@ with transport controls, track info, an animated visualizer and a lot of customi
 
 **[Download the latest APK](https://github.com/handyandii/music-remote/releases/latest)**
 
+<p align="center">
+  <a href="konkrdemo.mp4">
+    <img src="demo-preview.gif" width="640" alt="Demo of the app: main screen, settings and controller bindings">
+  </a>
+  <br>
+  <em>Sped-up preview. <a href="konkrdemo.mp4">Watch the full demo video (1:50)</a>.</em>
+</p>
+
 - Android 12 or newer
 - About 3 MB
 - No ads, no accounts, no analytics, and no internet permission: everything stays on your device
