@@ -93,7 +93,7 @@ needs them.
   example a development build). Uninstall it and install the release APK. This resets your
   settings, so export any presets first.
 
-## About this project
+## About this project + AI Usage
 
 This started as a personal project: I wanted a dedicated music remote for a small Android
 handheld, and decided to release it publicly in case it is useful to anyone else.
