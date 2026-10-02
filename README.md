@@ -82,28 +82,6 @@ Menu names vary slightly between manufacturers.
 The optional permissions are requested inside Settings when you turn on the feature that
 needs them.
 
-## Updating
-
-Download the newer APK and install it over the existing app. Your settings, presets and
-bindings are kept.
-
-To get updates automatically, add this repository's URL to
-[Obtainium](https://github.com/ImranR98/Obtainium).
-
-## Verifying a download
-
-Every release is signed with the same key. The signing certificate's SHA-256 fingerprint is:
-
-```
-a47fd92d0f9845bfc67931ba9de6b13b9581297ff5724838feb2c6d4d46faa80
-```
-
-Each release also lists the SHA-256 checksum of its APK. To check a download:
-
-```bash
-shasum -a 256 minimal-music-controller-remote-<version>.apk
-```
-
 ## Troubleshooting
 
 - **Nothing shows as playing:** start playback in your music app first, and confirm
@@ -114,6 +92,16 @@ shasum -a 256 minimal-music-controller-remote-<version>.apk
 - **"App not installed" when updating:** you have a copy signed with a different key (for
   example a development build). Uninstall it and install the release APK. This resets your
   settings, so export any presets first.
+
+## About this project
+
+This started as a personal project: I wanted a dedicated music remote for a small Android
+handheld, and decided to release it publicly in case it is useful to anyone else.
+
+It was built mostly by vibe coding with Claude. I directed the design and features and
+tested it on my own devices, but most of the code was written by AI. It works well for me,
+but it has not been tested across many devices, so expect rough edges and please report
+anything that breaks.
 
 ## Feedback
 
